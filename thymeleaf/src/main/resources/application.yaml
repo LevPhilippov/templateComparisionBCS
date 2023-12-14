@@ -1,0 +1,8 @@
+bcs:
+  templates-map:
+      9cebfe8a-90d5-40b2-827b-a01fec98a391:
+        filename: "check-fsk-ultima.html"
+        email-from: "mail-1@bcs.ru"
+      fe991008-d8ff-4c37-bf05-dd7390399734:
+        filename: "check-fsk.html"
+        email-from: "mail-2@bcs.ru"
